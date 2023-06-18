@@ -16,5 +16,17 @@ namespace Final_Project
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Server sv = new Server();
+            sv.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Menu mn = new Menu();
+            mn.Show();
+        }
     }
 }

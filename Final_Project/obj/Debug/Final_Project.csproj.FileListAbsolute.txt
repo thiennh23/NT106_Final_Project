@@ -9,3 +9,4 @@ C:\Users\Thienng23\OneDrive - Trường ĐH CNTT - University of Information Tec
 C:\Users\Thienng23\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
 C:\Users\Thienng23\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.exe
 C:\Users\Thienng23\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\Thienng23\OneDrive - Trường ĐH CNTT - University of Information Technology\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.Menu.resources
